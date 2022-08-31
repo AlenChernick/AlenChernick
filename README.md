@@ -38,7 +38,7 @@
 ## 📊 My Github Stats
 <br/>
 <div align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alenchernick&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="alenchernick" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alenchernick&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="alenchernick" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alenchernick&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="alenchernick" /></p>
 </div>
 <br/>
