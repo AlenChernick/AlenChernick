@@ -5,7 +5,7 @@
 <h3 align="center">Full-stack web developer with knowledge and experience in writing web applications, using the latest web technologies, including ES6, Vue.js, Vuex, Angular, React, Redux and Node.js.</h3>
 
 ## 🙋‍♂️ About Me
-- 🌱 I continue to learn and develop my skills in **React.js,Vue.js**
+- 🌱 I continue to learn and develop my skills in **React.js, Vue.js**
 
 - 📫 You can reach me in **alenc3013@gmail.com**
 
