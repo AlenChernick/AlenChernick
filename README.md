@@ -1,7 +1,7 @@
 <p align="center">
   <img width="500" src="https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif">
 </p>
-<h1 align="center">Shalom 👋, I'm Alen</h1>
+<h1 align="center">Shalom 👋, I'm Alen.</h1>
 <h3 align="center">Full-stack web developer with knowledge and experience in writing web applications, using the latest web technologies, including ES6, Vue.js, Vuex, Angular, React, Redux and Node.js.</h3>
 
 ## 🙋‍♂️ About Me
