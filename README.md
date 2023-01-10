@@ -2,7 +2,7 @@
   <img width="500" src="https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif">
 </p>
 <h1 align="center">Shalom 👋, I'm Alen.</h1>
-<h3 align="center">Full-stack web developer with knowledge and experience in writing web applications, using the latest web technologies, including ES6, Vue.js, Vuex, Angular, React, Redux and Node.js.</h3>
+<h3 align="center">Full-stack web developer with knowledge and experience in writing web applications using the latest technologies, including ES6, Vue.js, Vuex, Angular, React, Redux, Node.js, and Next.js. I also have knowledge in C# and ASP.NET MVC, as well as a strong understanding of CSS and SCSS. I am dedicated to staying up-to-date with the latest industry trends and technologies, and I am always eager to learn and expand my skills. With a track record of delivering successful projects, I am confident in my ability to contribute to the success of any team. I am excited to continue growing my skills and experience in the field.</h3>
 
 ## 🙋‍♂️ About Me
 - 🌱 I continue to learn and develop my skills in **React.js, Vue.js, C# and ASP.NET MVC**
