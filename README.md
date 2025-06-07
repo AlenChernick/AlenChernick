@@ -2,16 +2,11 @@
   <img width="500" src="https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif">
 </p>
 <h1 align="center">Shalom 👋, I'm Alen.</h1>
-<h3 align="center">Full-stack web developer with extensive knowledge and hands-on experience in developing robust web applications using cutting-edge technologies, including ES6, React, Next.js, Vue.js, Angular, Vuex, Redux, Node.js and Proficient in C# and ASP.NET, with a solid understanding of CSS and SCSS. Experienced in containerization with Docker for CI/CD workflows. Skilled in SQL and NoSQL databases.
-
-Dedicated to staying abreast of industry trends and emerging technologies, I am committed to continuous learning and skill expansion. With a proven track record of delivering successful projects, I am confident in my ability to contribute effectively to any team. Eager to further enhance my skills and expertise in the field.
+<h3 align="center">Full stack developer with strong experience building modern, scalable web applications. I work with a wide range of technologies including React, Next.js, Vue.js, Angular, Node.js, and .NET. I'm also comfortable with both SQL and NoSQL databases, and have solid experience with AWS, GCP, containerization using Docker, and setting up CI/CD pipelines.
 </h3>
 
 ## 🙋‍♂️ About Me
 - 🌱 I continue to learn and develop my skills in **React, Next.js, Vue.js and ASP.NET**
-
-- 📫 You can reach me in **alenc3013@gmail.com**
-
 - ⚡ Fun fact **I love gaming, logic challenges and football.**
 
 ## 🚀 Languages and Tools:
