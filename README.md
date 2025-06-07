@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="500" src="https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif">
+  <img width="500" src="https://www.mindmade.in/wp-content/uploads/2024/01/code.gif">
 </p>
 <h1 align="center">Shalom 👋, I'm Alen.</h1>
 <h3 align="center">Full stack developer with strong experience building modern, scalable web applications. I work with a wide range of technologies including React, Next.js, Vue.js, Angular, Node.js, and .NET. I'm also comfortable with both SQL and NoSQL databases, and have solid experience with AWS, GCP, containerization using Docker, and setting up CI/CD pipelines.
